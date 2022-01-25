@@ -5,7 +5,7 @@
 cron 0 0,10,20 * * * https://raw.githubusercontent.com/star261/jd/main/scripts/jd_hcb_red.js
 * */
 const $ = new Env('并发会场红包');
-// $.flCode =  $.isNode() ? (process.env.FLCODE3 ? process.env.FLCODE3 : '9999'):'9999';
+$.flCode =  $.isNode() ? (process.env.FLCODE3 ? process.env.FLCODE3 : '9999'):'9999';
 // const jdCookieNode = require('./jdCookie.js');
 let cookiesArr = [];
 if ($.isNode()) {

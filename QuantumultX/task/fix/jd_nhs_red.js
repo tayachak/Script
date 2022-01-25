@@ -5,7 +5,7 @@ cron 0 0,10,20 * * * https://raw.githubusercontent.com/star261/jd/main/scripts/j
 环境变量：FLCODE3，默认走内置，有值则不走内置
 * */
 const $ = new Env('会场红包');
-// const flCode =  $.isNode() ? (process.env.FLCODE3 ? process.env.FLCODE3 : '999'):'999';
+const flCode =  $.isNode() ? (process.env.FLCODE3 ? process.env.FLCODE3 : '999'):'999';
 // const jdCookieNode = require('./jdCookie.js');
 let cookiesArr = [];
 if ($.isNode()) {
