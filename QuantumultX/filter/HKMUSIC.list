@@ -1,0 +1,10 @@
+# > JOOX
+USER-AGENT,JOOX*
+USER-AGENT,WeMusic*
+DOMAIN-SUFFIX,joox.com
+DOMAIN-KEYWORD,jooxweb-api
+
+# > KKBOX
+DOMAIN-SUFFIX,kkbox.com
+DOMAIN-SUFFIX,kkbox.com.tw
+DOMAIN-SUFFIX,kfs.io
