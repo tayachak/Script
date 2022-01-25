@@ -3,6 +3,8 @@ USER-AGENT,JOOX*
 USER-AGENT,WeMusic*
 DOMAIN-SUFFIX,joox.com
 DOMAIN-KEYWORD,jooxweb-api
+HOST,smusic.app.wechat.com
+HOST,vibeacon.onezapp.com
 
 # > KKBOX
 DOMAIN-SUFFIX,kkbox.com
