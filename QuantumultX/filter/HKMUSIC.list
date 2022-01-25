@@ -5,8 +5,6 @@ DOMAIN-SUFFIX,joox.com
 DOMAIN-KEYWORD,jooxweb-api
 DOMAIN-SUFFIX,onezapp.com
 HOST,smusic.app.wechat.com
-HOST,soup.v.qq.com
-HOST,szmg.qq.com
 
 # > KKBOX
 DOMAIN-SUFFIX,kkbox.com
